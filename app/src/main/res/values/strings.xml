@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EventReviewer</string>
+    <!--Text Views-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="login">Log in</string>
+    <string name="register">Registration</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="upd_profile">Update profile</string>
+    <string name="logout">Log out</string>
+    <string name="switch_role">Switch role</string>
+    <string name="log_out">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="my_event">My event</string>
+    <string name="add_event">Add event</string>
+    <string name="new_event">CREATE EVENT</string>
+    <string name="title_activity_my_events">MyEvents</string>
+</resources>
